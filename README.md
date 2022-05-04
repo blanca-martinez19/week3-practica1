@@ -1,2 +1,2 @@
-# week3-practica1
-Practica 1 de semana 3 Backend LaunchX
+# week3
+Practicas de la semana 3 Backend LaunchX
