@@ -22,7 +22,7 @@ class User{
     }
 
     set setUsername(name){
-        this.name = name;
+        this.username = name;
     }
     set setBio(bio){
         this.bio = bio;
